@@ -1,0 +1,7 @@
+gradio
+plotly
+pytest
+pytest-mock
+openmeteo_requests
+requests_cache
+retry_requests
